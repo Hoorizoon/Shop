@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\Sklep internetowy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83D36585-1DAE-4140-8A45-720D6A589EFB}|Sklep internetowy\\Sklep internetowy.csproj|c:\\users\\pc\\source\\repos\\sklep internetowy\\sklep internetowy\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D36585-1DAE-4140-8A45-720D6A589EFB}|Sklep internetowy\\Sklep internetowy.csproj|solutionrelative:sklep internetowy\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D36585-1DAE-4140-8A45-720D6A589EFB}|Sklep internetowy\\Sklep internetowy.csproj|c:\\users\\pc\\source\\repos\\sklep internetowy\\sklep internetowy\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83D36585-1DAE-4140-8A45-720D6A589EFB}|Sklep internetowy\\Sklep internetowy.csproj|solutionrelative:sklep internetowy\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D36585-1DAE-4140-8A45-720D6A589EFB}|Sklep internetowy\\Sklep internetowy.csproj|c:\\users\\pc\\source\\repos\\sklep internetowy\\sklep internetowy\\views\\shop\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83D36585-1DAE-4140-8A45-720D6A589EFB}|Sklep internetowy\\Sklep internetowy.csproj|solutionrelative:sklep internetowy\\views\\shop\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D36585-1DAE-4140-8A45-720D6A589EFB}|Sklep internetowy\\Sklep internetowy.csproj|c:\\users\\pc\\source\\repos\\sklep internetowy\\sklep internetowy\\modeles\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D36585-1DAE-4140-8A45-720D6A589EFB}|Sklep internetowy\\Sklep internetowy.csproj|solutionrelative:sklep internetowy\\modeles\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D36585-1DAE-4140-8A45-720D6A589EFB}|Sklep internetowy\\Sklep internetowy.csproj|c:\\users\\pc\\source\\repos\\sklep internetowy\\sklep internetowy\\shopappservices\\shopappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D36585-1DAE-4140-8A45-720D6A589EFB}|Sklep internetowy\\Sklep internetowy.csproj|solutionrelative:sklep internetowy\\shopappservices\\shopappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D36585-1DAE-4140-8A45-720D6A589EFB}|Sklep internetowy\\Sklep internetowy.csproj|c:\\users\\pc\\source\\repos\\sklep internetowy\\sklep internetowy\\modeles\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D36585-1DAE-4140-8A45-720D6A589EFB}|Sklep internetowy\\Sklep internetowy.csproj|solutionrelative:sklep internetowy\\modeles\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D36585-1DAE-4140-8A45-720D6A589EFB}|Sklep internetowy\\Sklep internetowy.csproj|c:\\users\\pc\\source\\repos\\sklep internetowy\\sklep internetowy\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D36585-1DAE-4140-8A45-720D6A589EFB}|Sklep internetowy\\Sklep internetowy.csproj|solutionrelative:sklep internetowy\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D36585-1DAE-4140-8A45-720D6A589EFB}|Sklep internetowy\\Sklep internetowy.csproj|c:\\users\\pc\\source\\repos\\sklep internetowy\\sklep internetowy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D36585-1DAE-4140-8A45-720D6A589EFB}|Sklep internetowy\\Sklep internetowy.csproj|solutionrelative:sklep internetowy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D36585-1DAE-4140-8A45-720D6A589EFB}|Sklep internetowy\\Sklep internetowy.csproj|c:\\users\\pc\\source\\repos\\sklep internetowy\\sklep internetowy\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83D36585-1DAE-4140-8A45-720D6A589EFB}|Sklep internetowy\\Sklep internetowy.csproj|solutionrelative:sklep internetowy\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D36585-1DAE-4140-8A45-720D6A589EFB}|Sklep internetowy\\Sklep internetowy.csproj|c:\\users\\pc\\source\\repos\\sklep internetowy\\sklep internetowy\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83D36585-1DAE-4140-8A45-720D6A589EFB}|Sklep internetowy\\Sklep internetowy.csproj|solutionrelative:sklep internetowy\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Sklep internetowy\\Sklep internetowy\\Views\\Shop\\Details.cshtml",
+              "RelativeDocumentMoniker": "Sklep internetowy\\Views\\Shop\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Sklep internetowy\\Sklep internetowy\\Views\\Shop\\Details.cshtml",
+              "RelativeToolTip": "Sklep internetowy\\Views\\Shop\\Details.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T16:29:04.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Sklep internetowy\\Sklep internetowy\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "Sklep internetowy\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Sklep internetowy\\Sklep internetowy\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "Sklep internetowy\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAEYAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T16:15:59.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Sklep internetowy\\Sklep internetowy\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "Sklep internetowy\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Sklep internetowy\\Sklep internetowy\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "Sklep internetowy\\Controllers\\ShopController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T16:11:07.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Sklep internetowy\\Sklep internetowy\\Modeles\\Category.cs",
+              "RelativeDocumentMoniker": "Sklep internetowy\\Modeles\\Category.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Sklep internetowy\\Sklep internetowy\\Modeles\\Category.cs",
+              "RelativeToolTip": "Sklep internetowy\\Modeles\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:58:37.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Sklep internetowy\\Sklep internetowy\\Modeles\\Product.cs",
+              "RelativeDocumentMoniker": "Sklep internetowy\\Modeles\\Product.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Sklep internetowy\\Sklep internetowy\\Modeles\\Product.cs",
+              "RelativeToolTip": "Sklep internetowy\\Modeles\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:57:07.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShopAppService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Sklep internetowy\\Sklep internetowy\\ShopAppServices\\ShopAppService.cs",
+              "RelativeDocumentMoniker": "Sklep internetowy\\ShopAppServices\\ShopAppService.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Sklep internetowy\\Sklep internetowy\\ShopAppServices\\ShopAppService.cs",
+              "RelativeToolTip": "Sklep internetowy\\ShopAppServices\\ShopAppService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:55:34.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Sklep internetowy\\Sklep internetowy\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Sklep internetowy\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Sklep internetowy\\Sklep internetowy\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Sklep internetowy\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:51:36.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Sklep internetowy\\Sklep internetowy\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Sklep internetowy\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Sklep internetowy\\Sklep internetowy\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Sklep internetowy\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T15:50:48.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Sklep internetowy\\Sklep internetowy\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Sklep internetowy\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Sklep internetowy\\Sklep internetowy\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Sklep internetowy\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T15:49:31.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Sklep internetowy\\Sklep internetowy\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Sklep internetowy\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Sklep internetowy\\Sklep internetowy\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Sklep internetowy\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:48:26.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
