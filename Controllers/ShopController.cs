@@ -5,16 +5,20 @@ namespace Sklep_internetowy.Controllers
 {
     public class ShopController : Controller
     {
-        ShopAppService shopAppService = new ShopAppService();
+        private readonly ShopAppService _shopAppService;
+        public ShopController(ShopAppService shopAppService)
+        {
+            _shopAppService = shopAppService;
+        }
         public IActionResult Index()
         {
-            var model = shopAppService.GetAll();
+            var model = _shopAppService.GetAll();
             return View(model);
         }
         public IActionResult Details(long id)
         {
 
-            var model = shopAppService.GetElementById(id);
+            var model = _shopAppService.GetElementById(id);
             return View(model);
         }
     }

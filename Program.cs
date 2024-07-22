@@ -8,7 +8,7 @@ namespace Sklep_internetowy
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
-
+            builder.Services.AddScoped<ShopAppServices.ShopAppService>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

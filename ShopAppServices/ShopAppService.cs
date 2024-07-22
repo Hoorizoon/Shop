@@ -1,26 +1,74 @@
 ﻿using Sklep_internetowy.Modeles;
+using System.Data.SqlClient;
 
 namespace Sklep_internetowy.ShopAppServices
 {
     public class ShopAppService
     {
         private List<Product> Products = new List<Product>();
-
+        private readonly string _ConnetionString;
         
-        public ShopAppService()
+        public ShopAppService(IConfiguration configuration)
         {
-
-            InitializeData();
+            _ConnetionString = "data source=DESKTOP-92RNAQI;initial catalog=SklepInternetowy;trusted_connection=true";
+            //InitializeData();
         }
 
         public List<Product> GetAll()
         {
-            return Products;
+            var products = new List<Product>();
+            using (var connetion = new SqlConnection(_ConnetionString))
+            {
+                var command = new SqlCommand("SELECT [Id],[Name],[Description],[CategoryId],[Price],[CreationTime],[IsDelated],[IsActive] FROM [SklepInternetowy].[dbo].[Product]", connetion);
+                connetion.Open();
+                var reader = command.ExecuteReader();
+                while (reader.Read())
+                {
+                    var product = new Product()
+                    {
+                        Id = Convert.ToInt64(reader["Id"]),
+                        Name = reader["Name"].ToString(),
+                        Description = reader["Description"].ToString(),
+                        CategoryId = Convert.ToInt64(reader["CategoryId"]),
+                        Price = Convert.ToDouble(reader["Price"]),
+                        CreationTime = Convert.ToDateTime(reader["CreationTime"]),
+                        IsDelated = Convert.ToBoolean(reader["IsDelated"]),
+                        IsActive = Convert.ToBoolean(reader["IsActive"])
+                    };
+                    products.Add(product);
+                }
+            }
+            return products;
         }
         public Product GetElementById(long id)
         {
-            return Products.Where(x => x.Id == id).FirstOrDefault();
+            
+            var product = new Product();
+            using (var connetion = new SqlConnection(_ConnetionString))
+            {
+
+                var command = new SqlCommand("SELECT [Id],[Name],[Description],[CategoryId],[Price],[CreationTime],[IsDelated],[IsActive] FROM [SklepInternetowy].[dbo].[Product] WHERE Id = @Id", connetion);
+                command.Parameters.AddWithValue("Id", id);
+                connetion.Open();
+                var reader = command.ExecuteReader();
+                if (reader.Read())
+                {
+                    product = new Product()
+                    {
+                        Id = Convert.ToInt64(reader["Id"]),
+                        Name = reader["Name"].ToString(),
+                        Description = reader["Description"].ToString(),
+                        CategoryId = Convert.ToInt64(reader["CategoryId"]),
+                        Price = Convert.ToDouble(reader["Price"]),
+                        CreationTime = Convert.ToDateTime(reader["CreationTime"]),
+                        IsDelated = Convert.ToBoolean(reader["IsDelated"]),
+                        IsActive = Convert.ToBoolean(reader["IsActive"])
+                    };
+                }
+            }
+            return product;
         }
+
         private void InitializeData()
         {
             var product1 = new Product()
