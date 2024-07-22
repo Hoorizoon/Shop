@@ -223,3 +223,4 @@ C:\Users\PC\source\repos\Sklep internetowy\Sklep internetowy\bin\Debug\net8.0\ru
 C:\Users\PC\source\repos\Sklep internetowy\Sklep internetowy\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\PC\source\repos\Sklep internetowy\Sklep internetowy\obj\Debug\net8.0\Sklep internetowy.csproj.AssemblyReference.cache
 C:\Users\PC\source\repos\Sklep internetowy\Sklep internetowy\obj\Debug\net8.0\Sklep in.F72A60CE.Up2Date
+C:\Users\PC\source\repos\Sklep internetowy\Sklep internetowy\obj\Debug\net8.0\Sklep internetowy.sourcelink.json
